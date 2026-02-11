@@ -1,4 +1,5 @@
 # Online Quiz Application
+<img width="1058" height="772" alt="Screenshot 2025-07-14 131422" src="https://github.com/user-attachments/assets/7e21336d-4d13-4095-b947-9b414a227f28" />
 
 A full-stack online quiz application built with vanilla JavaScript, Tailwind CSS, and Firebase/Firestore.
 
